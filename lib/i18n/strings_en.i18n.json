@@ -1,0 +1,123 @@
+{
+  "landing": {
+    "navigation": {
+      "home": "Home",
+      "features": "Features",
+      "pricing_calculator": "Pricing Calculator",
+      "benefits": "Benefits",
+      "testimonials": "Testimonials",
+      "faq": "FAQ",
+      "contact_us": "Contact Us",
+      "login": "Login",
+      "calculate": "Calculate"
+    },
+    "hero_title": "Simplify Your Pricing Strategy – An App Tailored for SMEs",
+    "hero_subtitle": "Optimize your prices and boost your profits with automated calculations.",
+    "try_demo": "Try Demo",
+    "features_title": "Our Key Features",
+    "feature_subtitle": "Explore how we help businesses across various industries achieve growth, optimize operations, and navigate challenges with our expert consulting services.",
+    "features": [
+      {
+        "title": "Instant Price Calculations",
+        "description": "Input your costs and instantly receive an accurate price based on your desired profit margin. No complex calculations needed!"
+      },
+      {
+        "title": "Real-Time Price Simulations",
+        "description": "Adjust costs or profit margins and instantly see the updated price, helping you explore different scenarios."
+      },
+      {
+        "title": "Clear & Simple Dashboard",
+        "description": "View all key metrics at a glance, enabling you to make informed pricing decisions quickly."
+      }
+    ],
+    "pricing_calculator_header": "Instant Pricing Calculator",
+    "benefits_subtitle": "Explore how we help businesses across various industries achieve growth, optimize operations, and navigate challenges with our expert consulting services.",
+    "benefits_title": "Benefits for SMEs",
+    "slider_label": "The percentage of profit you want to add to cover costs and earn profit",
+    "benefits": [
+      {
+        "title": "Automated Price Calculations",
+        "content": "Input your costs and instantly receive an accurate price based on your desired profit margin. No complex calculations needed!"
+      },
+      {
+        "title": "Save Time",
+        "content": "Automated calculations save you up to 30 minutes per pricing task"
+      },
+      {
+        "title": "Cost-effective",
+        "content": "Affordable for SMEs with no need for additional tools."
+      },
+      {
+        "title": "Simplicity",
+        "content": "No complex IT needed; easy to use for everyone"
+      }
+    ],
+    "testimonials": "Testimonials",
+    "testimonial_title": "Our Satisfied Clients",
+    "faq_title": "Frequently Asked Questions",
+    "contacts_title": "Ready to Transform Your Business?",
+    "start_your_free_trial": "Start Your Free Trial",
+    "privacy_policy": "Privacy Policy",
+    "terms_and_conditions": "Terms & Conditions",
+    "cookie_policy": "Cookie Policy",
+    "label": "Label",
+    "cost_type": "Cost Type",
+    "price": "Price",
+    "comment": "Comment",
+    "cost_category": "Cost Category",
+    "cost_euro": "Cost (€)",
+    "fixed_cost": "Fixed Cost",
+    "variable_cost": "Variable Cost",
+    "add_row": "Add Row",
+    "set_profit_margin": "Set Profit Margin",
+    "calculate_price": "Calculate Price",
+    "please_fill_all_fields": "Please fill all fields"
+  },
+
+  "feedbackDialogTitle": "We Value Your Feedback",
+  "feedbackDialogCloseWaitMessage": "Please wait for 5 seconds",
+  "feedbackDialogDescription": "Help us improve by sharing your experience with the price calculator.",
+  "question1": "Q.1 How much time did using this calculator save you compared to traditional methods?",
+  "timeSavingsOptions": [
+    "No time savings",
+    "Less than 5 minutes",
+    "5-15 minutes",
+    "15-30 minutes",
+    "More than 30 minutes"
+  ],
+  "question2": "Q.2 How easy was it to use the price calculator?",
+  "easeOptions": [
+    "Very difficult",
+    "Difficult",
+    "Neutral",
+    "Easy",
+    "Very easy"
+  ],
+  "question3": "Q.3 How accurate were the price suggestions compared to your expectations?",
+  "accuracyOptions": [
+    "Very inaccurate",
+    "Inaccurate",
+    "Neutral",
+    "Accurate",
+    "Very accurate"
+  ],
+  "question4": "Q.4 How satisfied are you with the price suggestions provided by the calculator?",
+  "satisfactionOptions": [
+    "Very dissatisfied",
+    "Dissatisfied",
+    "Neutral",
+    "Satisfied",
+    "Very satisfied"
+  ],
+  "submitButtonLabel": "Submit Feedback",
+  "submittingLabel": "Submitting...",
+  "errorMessageIncomplete": "Please answer all questions",
+  "successMessage": "Feedback submitted successfully",
+  "errorMessageGeneral": "Something went wrong",
+  "fixedCostComment": "Fixed costs are costs that do not change with the level of production or output.",
+  "variableCostComment": "Variable costs are costs that change in proportion to the changes in output or production.",
+  "productionQuantity": "Output quantity per month. Approximately how many units of the product are produced per month?",
+  "yourPriceSuggestion": "Your Price Suggestion",
+  "perUnit": "Per Unit",
+  "profitMargin": "Profit Margin"
+}

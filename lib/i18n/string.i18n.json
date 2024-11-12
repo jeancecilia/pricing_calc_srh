@@ -1,0 +1,122 @@
+{
+  "landing": {
+    "navigation": {
+      "home": "Startseite",
+      "features": "Funktionen",
+      "pricing_calculator": "Preisrechner",
+      "benefits": "Vorteile",
+      "testimonials": "Kundenstimmen",
+      "faq": "FAQ",
+      "contact_us": "Kontaktieren Sie uns",
+      "login": "Anmelden",
+      "calculate": "Berechnen"
+    },
+    "hero_title": "Ihre Preisgestaltung leicht gemacht – Das maßgeschneiderte Tool für Unternehmer",
+    "hero_subtitle": "Optimieren Sie Ihre Preise und steigern Sie Ihre Gewinne mit kostenlosen automatisierten Berechnungen.",
+    "try_demo": "Einfach ausprobieren",
+    "features_title": "Sofortige Preiskalkulationen",
+    "feature_subtitle": "Geben Sie Ihre Kosten ein und erhalten Sie sofort einen präzisen Preis auf Basis Ihrer gewünschten Gewinnspanne. Keine komplizierten Berechnungen nötig!",
+    "features": [
+      {
+        "title": "Preis-Simulation in Echtzeit",
+        "description": "Geben Sie Ihre Kosten ein und erhalten Sie sofort einen genauen Preis basierend auf Ihrer gewünschten Gewinnmarge. Keine komplizierten Berechnungen nötig!"
+      },
+      {
+        "title": "Echtzeit-Preissimulationen",
+        "description": "Passen Sie Kosten oder Gewinnmargen an und sehen Sie sofort den aktualisierten Preis, um verschiedene Szenarien zu erkunden."
+      },
+      {
+        "title": "Übersichtliches Dashboard",
+        "description": "Alle wichtigen Kennzahlen auf einen Blick, sodass Sie schnelle und fundierte Preisentscheidungen treffen können."
+      }
+    ],
+    "pricing_calculator_header": "Sofortiger Preisrechner",
+    "benefits_subtitle": "Entdecken Sie, wie wir Unternehmen in verschiedenen Branchen unterstützen, Wachstum zu erzielen, Abläufe zu optimieren und Herausforderungen zu meistern.",
+    "benefits_title": "Vorteile für KMU",
+    "slider_label": "Prozentsatz des Gewinns, den Sie zur Kostendeckung und Gewinnerzielung hinzufügen möchten",
+    "benefits": [
+      {
+        "title": "Automatisierte Preiskalkulationen",
+        "content": "Geben Sie Ihre Kosten ein und erhalten Sie sofort einen genauen Preis basierend auf Ihrer gewünschten Gewinnmarge. Keine komplizierten Berechnungen nötig!"
+      },
+      {
+        "title": "Zeitersparnis",
+        "content": "Automatisierte Berechnungen sparen Ihnen bis zu 30 Minuten pro Preisaufgabe"
+      },
+      {
+        "title": "Kostenersparnis",
+        "content": "Erschwinglich für KMU, ohne dass zusätzliche Tools benötigt werden."
+      },
+      {
+        "title": "Einfachheit",
+        "content": "Keine komplexe IT erforderlich; leicht zu bedienen für alle"
+      }
+    ],
+    "testimonials": "Kundenbewertungen",
+    "testimonial_title": "Unsere zufriedenen Kunden",
+    "faq_title": "Häufig gestellte Fragen",
+    "contacts_title": "Bereit, Ihr Unternehmen zu transformieren?",
+    "start_your_free_trial": "Starten Sie Ihre kostenlose Testphase",
+    "privacy_policy": "Datenschutzrichtlinie",
+    "terms_and_conditions": "Allgemeine Geschäftsbedingungen",
+    "cookie_policy": "Cookie-Richtlinie",
+    "label": "Bezeichnung",
+    "cost_type": "Kostentyp",
+    "price": "Preis",
+    "comment": "Kommentar",
+    "cost_category": "Kostenkategorie",
+    "cost_euro": "Kosten (€)",
+    "fixed_cost": "Fixkosten",
+    "variable_cost": "Variable Kosten",
+    "add_row": "Zeile hinzufügen",
+    "set_profit_margin": "Gewinnmarge festlegen",
+    "calculate_price": "Preis berechnen",
+    "please_fill_all_fields": "Bitte füllen Sie alle Felder aus"
+  },
+  "feedbackDialogTitle": "Wir schätzen Ihr Feedback",
+  "feedbackDialogCloseWaitMessage": "Bitte warten Sie 5 Sekunden",
+  "feedbackDialogDescription": "Helfen Sie uns, indem Sie Ihre Erfahrungen mit dem Preisrechner teilen.",
+  "question1": "F.1 Wie viel Zeit hat Ihnen die Nutzung dieses Rechners im Vergleich zu traditionellen Methoden gespart?",
+  "timeSavingsOptions": [
+    "Keine Zeitersparnis",
+    "Weniger als 5 Minuten",
+    "5-15 Minuten",
+    "15-30 Minuten",
+    "Mehr als 30 Minuten"
+  ],
+  "question2": "F.2 Wie einfach war es, den Preisrechner zu benutzen?",
+  "easeOptions": [
+    "Sehr schwierig",
+    "Schwierig",
+    "Neutral",
+    "Einfach",
+    "Sehr einfach"
+  ],
+  "question3": "F.3 Wie genau waren die Preisvorschläge im Vergleich zu Ihren Erwartungen?",
+  "accuracyOptions": [
+    "Sehr ungenau",
+    "Ungenau",
+    "Neutral",
+    "Genau",
+    "Sehr genau"
+  ],
+  "question4": "F.4 Wie zufrieden sind Sie mit den Preisvorschlägen des Rechners?",
+  "satisfactionOptions": [
+    "Sehr unzufrieden",
+    "Unzufrieden",
+    "Neutral",
+    "Zufrieden",
+    "Sehr zufrieden"
+  ],
+  "submitButtonLabel": "Feedback absenden",
+  "submittingLabel": "Absenden...",
+  "errorMessageIncomplete": "Bitte beantworten Sie alle Fragen",
+  "successMessage": "Feedback erfolgreich gesendet",
+  "errorMessageGeneral": "Ein Fehler ist aufgetreten",
+  "fixedCostComment": "Fixkosten sind Kosten, die sich nicht mit dem Produktions- oder Outputniveau ändern.",
+  "variableCostComment": "Variable Kosten sind Kosten, die sich proportional zu den Änderungen im Output oder in der Produktion ändern.",
+  "productionQuantity": "Outputmenge pro Monat. Wie viele Einheiten des Produktes werden pro Monat ca. hergestellt?",
+  "yourPriceSuggestion": "Ihre Preisempfehlung",
+  "perUnit": "Pro Einheit",
+  "profitMargin": "Gewinnmarge"
+}
