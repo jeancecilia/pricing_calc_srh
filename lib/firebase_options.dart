@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDKTJfrrQridcJ6qGVMw1jyQGyVLANOqmk',
+    apiKey: 'Hidden',
     appId: '1:917836534803:web:81258ab62dd763c137dbe6',
     messagingSenderId: '917836534803',
     projectId: 'pricecalc-fb169',
